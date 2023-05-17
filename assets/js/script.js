@@ -1,1 +1,1 @@
-// This is the JS script
+console.log('JS gets executed');

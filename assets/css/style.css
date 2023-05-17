@@ -1,1 +1,9 @@
-/* This is the stylsheet */
+body
+{
+    background: ivory;
+}
+
+p
+{
+    color: red;
+}
